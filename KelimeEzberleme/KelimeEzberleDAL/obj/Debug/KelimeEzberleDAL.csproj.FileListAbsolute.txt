@@ -1,0 +1,9 @@
+C:\Users\seyda\OneDrive\Masaüstü\Proje-03102020\KelimeEzberleme\KelimeEzberleDAL\bin\Debug\KelimeEzberleDAL.dll.config
+C:\Users\seyda\OneDrive\Masaüstü\Proje-03102020\KelimeEzberleme\KelimeEzberleDAL\bin\Debug\KelimeEzberleDAL.dll
+C:\Users\seyda\OneDrive\Masaüstü\Proje-03102020\KelimeEzberleme\KelimeEzberleDAL\bin\Debug\KelimeEzberleDAL.pdb
+C:\Users\seyda\OneDrive\Masaüstü\Proje-03102020\KelimeEzberleme\KelimeEzberleDAL\bin\Debug\KelimeEzberleEntity.dll
+C:\Users\seyda\OneDrive\Masaüstü\Proje-03102020\KelimeEzberleme\KelimeEzberleDAL\bin\Debug\KelimeEzberleEntity.pdb
+C:\Users\seyda\OneDrive\Masaüstü\Proje-03102020\KelimeEzberleme\KelimeEzberleDAL\obj\Debug\KelimeEzberleDAL.csprojAssemblyReference.cache
+C:\Users\seyda\OneDrive\Masaüstü\Proje-03102020\KelimeEzberleme\KelimeEzberleDAL\obj\Debug\KelimeEzberleDAL.csproj.CopyComplete
+C:\Users\seyda\OneDrive\Masaüstü\Proje-03102020\KelimeEzberleme\KelimeEzberleDAL\obj\Debug\KelimeEzberleDAL.dll
+C:\Users\seyda\OneDrive\Masaüstü\Proje-03102020\KelimeEzberleme\KelimeEzberleDAL\obj\Debug\KelimeEzberleDAL.pdb

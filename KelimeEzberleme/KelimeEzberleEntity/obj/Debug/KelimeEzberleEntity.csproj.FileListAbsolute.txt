@@ -1,0 +1,5 @@
+C:\Users\seyda\OneDrive\Masaüstü\Proje-03102020\KelimeEzberleme\KelimeEzberleEntity\bin\Debug\KelimeEzberleEntity.dll
+C:\Users\seyda\OneDrive\Masaüstü\Proje-03102020\KelimeEzberleme\KelimeEzberleEntity\bin\Debug\KelimeEzberleEntity.pdb
+C:\Users\seyda\OneDrive\Masaüstü\Proje-03102020\KelimeEzberleme\KelimeEzberleEntity\obj\Debug\KelimeEzberleEntity.csprojAssemblyReference.cache
+C:\Users\seyda\OneDrive\Masaüstü\Proje-03102020\KelimeEzberleme\KelimeEzberleEntity\obj\Debug\KelimeEzberleEntity.dll
+C:\Users\seyda\OneDrive\Masaüstü\Proje-03102020\KelimeEzberleme\KelimeEzberleEntity\obj\Debug\KelimeEzberleEntity.pdb
